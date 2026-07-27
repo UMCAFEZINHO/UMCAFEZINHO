@@ -81,7 +81,7 @@ Projetos criados para estudo e aprendizado.
 
 | Projeto | Descrição |
 |---------|-----------|
-| Finanças Fácil | Sistema simples de controle financeiro desenvolvido para faculdade |
+| **[Finanças Fácil](https://github.com/UMCAFEZINHO/FinancasFacil)** | Sistema simples de controle financeiro desenvolvido para faculdade |
 | Ecommerce | Projeto acadêmico de e-commerce |
 | Outros projetos | Ferramentas desenvolvidas durante meus estudos |
 
