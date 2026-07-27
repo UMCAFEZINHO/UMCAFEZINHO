@@ -59,9 +59,9 @@ Projetos relacionados ao estudo e administração de bancos de dados.
 
 | Projeto | Descrição |
 |---------|-----------|
-| Oracle RAC Lab *(Em desenvolvimento)* | Laboratório Oracle RAC 19c utilizando VirtualBox |
-| Projeto Farmácia | Sistema acadêmico utilizando banco de dados relacional |
-| SQL Scripts *(Em desenvolvimento)* | Coleção de consultas e scripts SQL |
+| 🏥 **[Projeto Farmácia](https://github.com/UMCAFEZINHO/ProjetoFarmacia)** | Sistema desenvolvido em equipe para a disciplina de Banco de Dados, com modelagem relacional e implementação das funcionalidades da aplicação. |
+| 🗃️ Oracle RAC Lab *(Em desenvolvimento)* | Ambiente Oracle RAC 19c utilizando Oracle Linux e VirtualBox. |
+| 📄 SQL Scripts *(Em desenvolvimento)* | Coleção de consultas, procedures e scripts SQL para estudo e automação. |
 
 ---
 
