@@ -94,6 +94,7 @@ Projetos criados para estudo e aprendizado.
 - Python para automação
 - Cloud Computing
 - Engenharia de Dados
+- Cibersegurança
 
 ---
 
