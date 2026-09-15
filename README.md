@@ -84,6 +84,7 @@ Projetos criados para estudo e aprendizado.
 | **[Finanças Fácil](https://github.com/UMCAFEZINHO/FinancasFacil)** | Sistema mobile simples de controle financeiro desenvolvido para faculdade |
 | **[Ecommerce](https://github.com/UMCAFEZINHO/Ecommerce)** | Projeto acadêmico de e-commerce |
 | Outros projetos | Ferramentas desenvolvidas durante meus estudos |
+| [Outros projetos](https://github.com/UMCAFEZINHO/Ditado) | IA para organizar prompts via microfone |
 
 ---
 
